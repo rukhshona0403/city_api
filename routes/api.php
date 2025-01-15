@@ -9,5 +9,5 @@ Route::apiResources([
 ]);
 
 Route::get('/test', function() {
-    return 'ok';
+    return 'okey';
 });
